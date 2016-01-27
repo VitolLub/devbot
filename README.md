@@ -1,8 +1,8 @@
 # devbot
 ****works without human intervention****
 Facebook bot what using for promotion DevBattles publick page  on facebook. 
-<br/>
-What bot do:
+
+What bot do:<br />
 -share in many IT group
 -click "like" button on public page
 -add friends
