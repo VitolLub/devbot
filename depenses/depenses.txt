@@ -1,0 +1,6 @@
+numpy
+PyUserInput
+win32api(Only for Windows)
+PyHook
+Image
+PIL
